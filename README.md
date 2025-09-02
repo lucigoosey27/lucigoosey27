@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lucigoosey27
-- 👀 I’m interested in 2D Game Development, Old Datsuns, and Vegan Ice Cream
-- 🌱 I’m currently learning Software Engineering
+- 👋 Hi, I’m Luci!
+- 👀 I’m interested in 2D Game Development, old Datsuns, and vegan ice cream.
+- 🌱 I’m currently learning Software Engineering.
 - ⚡ Fun fact: If your brain was aware of your eyes, your brain would eat them.
 
 <!---
